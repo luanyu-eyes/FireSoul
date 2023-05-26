@@ -1,0 +1,9 @@
+{
+  "moveSpeed": 5.0,
+  "isOnGround": false,
+  "jumpInitialSpeed": 3.0,
+  "canJumpHigher": true,
+  "force": 2.2,
+  "graveScale": 0.75,
+  "canJump": false
+}

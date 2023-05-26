@@ -1,0 +1,9 @@
+{
+  "canEnter": false,
+  "isStay": false,
+  "soulEnterEntitySpeed": 0.06,
+  "changeControlDistance": 1.0,
+  "canSoulFlash": false,
+  "soulFlashSpeed": 0.08,
+  "soulFlashDistance": 4.0
+}
